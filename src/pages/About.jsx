@@ -1,7 +1,8 @@
 const About = () => {
     return (
         <div>
-            <h1>About</h1>
+            <h2>About</h2>
+            <img src="https://media.licdn.com/dms/image/v2/D4E35AQELAHvUnxOO2Q/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1723159895997?e=1728151200&v=beta&t=wiUnBPlwqzQAFGQS7P2-vmdvIHto3dtTVO62FOg1jns"/>
             <p>Welcome! I have a wide range of professional, academic, and 
                 personal experience in the fields that inspire me the most 
                 (this includes the social media and music industries in 

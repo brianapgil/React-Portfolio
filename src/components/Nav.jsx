@@ -4,6 +4,8 @@ const Nav = () => {
     const currentPage = useLocation().pathname;
 
     return (
+      <div>
+        <h1>Briana Gil's React Portfolio</h1>
       <ul className="nav nav-tabs">
         <li className="nav-item">
           <Link
@@ -42,6 +44,7 @@ const Nav = () => {
           </Link>
         </li>
       </ul>
+      </div>
     );
 
 }

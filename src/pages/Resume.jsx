@@ -1,7 +1,8 @@
 const Resume = () => {
     return (
         <div>
-            <h1>Resume</h1>
+            <h2></h2>
+            <a href="https://docs.google.com/document/d/1TELCGRA93A7CsfG3ih6hRMf20fUPgBlG7oDqhCe828g/edit">Link To Resume </a>
             <h2>Education</h2>
             <h3>Columbia University 2024</h3>
             <p>Coding Bootcamp Certificate, Engineering Major</p>
